@@ -633,3 +633,5 @@ https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",teleSUR (260p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",beIN Sports Xtra (1080p)
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8

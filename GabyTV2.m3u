@@ -101,6 +101,12 @@ http://45.4.85.137:58001/play/a02v/index.m3u8
 http://45.4.85.137:58001/play/a051/index.m3u8
 #EXTINF:-1,GOL TV
 http://45.238.21.106:6688/play/a04p/index.m3u8
+#EXTINF:-1,Gol TV
+http://45.189.117.36:7879/play/a03o
+#EXTINF:-1,GolTV HD
+http://45.189.117.36:7879/play/a0jk
+#EXTINF:-1,GOL
+http://212.18.115.177:8001/play/a01q/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://45.4.85.137:58001/play/a00e/index.m3u8
 #EXTINF:-1,HBO HD
@@ -125,6 +131,44 @@ http://45.4.85.137:58001/play/a05z/index.m3u8
 http://45.4.85.137:58001/play/a020/index.m3u8
 #EXTINF:-1,La voz de Maria
 http://45.4.85.137:58001/play/a02l/index.m3u8
+#EXTINF:-1,M+ LaLiga
+http://212.18.115.177:8001/play/a019/index.m3u8
+#EXTINF:-1,M+ LaLiga 1
+http://212.18.115.177:8001/play/a01a/index.m3u8
+#EXTINF:-1,M+ LaLiga 2
+http://212.18.115.177:8001/play/a01b/index.m3u8
+#EXTINF:-1,M+ LaLiga 3
+http://212.18.115.177:8001/play/a01c/index.m3u8
+#EXTINF:-1,M+ LaLiga 4
+http://212.18.115.177:8001/play/a02u/index.m3u8
+#EXTINF:-1,M+ LaLiga 5
+http://212.18.115.177:8001/play/a02v/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones
+http://212.18.115.177:8001/play/a01d/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 1
+http://212.18.115.177:8001/play/a01e/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 10
+http://212.18.115.177:8001/play/a035/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 11
+http://212.18.115.177:8001/play/a036/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 12
+http://212.18.115.177:8001/play/a037/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 2
+http://212.18.115.177:8001/play/a01f/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 3
+http://212.18.115.177:8001/play/a02y/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 4
+http://212.18.115.177:8001/play/a02z/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 5
+http://212.18.115.177:8001/play/a030/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 6
+http://212.18.115.177:8001/play/a031/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 7
+http://212.18.115.177:8001/play/a032/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 8
+http://212.18.115.177:8001/play/a033/index.m3u8
+#EXTINF:-1,M+ Liga de Campeones 9
+http://212.18.115.177:8001/play/a034/index.m3u8
 #EXTINF:-1,MTV
 http://45.4.85.137:58001/play/a05k/index.m3u8
 #EXTINF:-1,MTV 80s

@@ -255,3 +255,51 @@ http://45.4.85.137:58001/play/a01n/index.m3u8
 http://45.4.85.137:58001/play/a015/index.m3u8
 #EXTINF:-1,WARNER HD
 http://45.4.85.137:58001/play/a03b/index.m3u8
+#EXTINF:-1,ESPN
+http://87.212.248.23:8080/play/a0bv
+#EXTINF:-1,ESPN 2
+http://87.212.248.23:8080/play/a0bp
+#EXTINF:-1,ESPN 3
+http://87.212.248.23:8080/play/a0c0
+#EXTINF:-1,ESPN 4
+http://87.212.248.23:8080/play/a0da
+#EXTINF:-1,ESPN UHD
+http://87.212.248.23:8080/play/a0f3
+#EXTINF:-1,ESPN
+http://84.54.149.199:46000/play/a00z
+#EXTINF:-1,ESPN 2
+http://84.54.149.199:46000/play/a031
+#EXTINF:-1,ESPN
+http://82.197.214.59:4001/play/a02l/index.m3u8
+#EXTINF:-1,ESPN 2
+http://82.197.214.59:4001/play/a00l/index.m3u8
+#EXTINF:-1,ESPN 3
+http://82.197.214.59:4001/play/a02v/index.m3u8
+#EXTINF:-1,ESPN 4
+http://82.197.214.59:4001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="espndeportes.us",Deportes HD | ESPN Deportes HD
+http://51.222.241.122:8000/play/a04m
+#EXTINF:-1 tvg-id="espnplushd.mx",Deportes HD | ESPN Plus HD
+http://51.222.241.122:8000/play/a04n
+#EXTINF:-1 tvg-id="espnu.us",Deportes HD | ESPN U HD
+http://51.222.241.122:8000/play/a04o
+#EXTINF:-1 tvg-id="foxsports.ar",Deportes HD | Fox Sports (Chile) HD
+http://51.222.241.122:8000/play/a04w
+#EXTINF:-1 tvg-id="foxsportsconosur.co",Deportes HD | Fox Sports (Col) HD
+http://51.222.241.122:8000/play/a04v
+#EXTINF:-1 tvg-id="FoxSports.ar",Deportes HD | Fox Sports 1 (Arg) HD
+http://51.222.241.122:8000/play/a04p
+#EXTINF:-1 tvg-id="fox1hd.mx",Deportes HD | Fox Sports 1 (Mx) HD
+http://51.222.241.122:8000/play/a04s
+#EXTINF:-1 tvg-id="FoxSports2.ar",Deportes HD | Fox Sports 2 (Arg) HD
+http://51.222.241.122:8000/play/a04q
+#EXTINF:-1 tvg-id="foxsports2.mx",Deportes HD | Fox Sports 2 (Mx) HD
+http://51.222.241.122:8000/play/a04t
+#EXTINF:-1 tvg-id="FoxSports3.ar",Deportes HD | Fox Sports 3 (Arg) HD
+http://51.222.241.122:8000/play/a04r
+#EXTINF:-1 tvg-id="foxsports3.mx",Deportes HD | Fox Sports 3 (Mx) HD
+http://51.222.241.122:8000/play/a04u
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar",Deportes HD | Fox Sports Premium HD
+http://51.222.241.122:8000/play/a04x
+#EXTINF:-1 tvg-id="goltvlatinamerica.pa",Deportes HD | GOL TV HD
+http://51.222.241.122:8000/play/a05m

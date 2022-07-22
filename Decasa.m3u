@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1,CANAL DECASA#
-http://45.92.69.203:1980/play/a01v
-#EXTINF:-1,PER: DECASA
-http://86.127.241.115:8888/play/a022
-#EXTINF:-1,Canal Decasa
-http://212.18.115.177:8001/play/a01y/index.m3u8
-#EXTINF:-1 ,decasa HD
-http://212.121.249.34:8080/decasa/playlist.m3u8
 #EXTINF:-1,CANAL DECASA
 http://185.79.153.9:6500/play/a02g
+#EXTINF:-1,CANAL DECASA
+http://185.236.229.101:8005/play/a01k
+#EXTINF:-1,PER: DECASA
+http://37.230.69.224:8888/play/a022
 #EXTINF:-1,CANAL DECASA
 http://146.19.16.205:8002/play/a02y
